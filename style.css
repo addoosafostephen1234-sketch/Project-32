@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #007bff;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #0056b3;
+}#about {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#about h2 {
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+#about p {
+  font-size: 16px;
+  line-height: 1.6;
+}#projects {
+  background-color: #f0f8ff;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#projects h2 {
+  color: #007bff;
+  margin-bottom: 15px;
+}
+
+#projects ul {
+  list-style-type: square; /* bullets */
+  padding-left: 20px;
+}
+
+#projects li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
